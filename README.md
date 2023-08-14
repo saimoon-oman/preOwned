@@ -1,7 +1,4 @@
 
-# preOwned
-Web application using html, css, javascript, php
-
 # preOwned-->
   An advertisement website for buying and selling products in online. It was build with html, css, javascript, php, mysql.
 
